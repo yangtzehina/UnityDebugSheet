@@ -158,7 +158,7 @@ Or, you can also install by adding the following line to the `dependencies` bloc
 If you want to specify the version, you can do so by adding the version number to the end of the URL.
 
 ```
-https://github.com/Haruma-K/UnityDebugSheet.git?path=/Assets/UnityDebugSheet#1.0.0
+https://github.com/yangtzehina/UnityDebugSheet.git?path=/Assets/UnityDebugSheet#1.0.0
 ```
 
 You can update the version by changing the version number above.  
